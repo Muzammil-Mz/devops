@@ -44,11 +44,11 @@ app.listen(PORT, () => {
 
 2.react vite + backend setup
 
-1.make sure hewllo wordl in react is working
+1.make sure hello wordl in react is working
 2. cd client 
 3. npm run build
 4.this will generate a dist folder
-which is a optomized folder for your whole react app
+which is a optimized folder for your whole react app
 (delete the build folder from server )
 5. mv dist ../server
 6. cd server
